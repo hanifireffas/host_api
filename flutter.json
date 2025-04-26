@@ -13,6 +13,13 @@
       "description": "Comfortable and warm zip hoodie perfect for all seasons.",
       "price": 39.99,
       "image_url": "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/1-ZIP_HOODIE_1200x2000.png?v=1734278176"
+    },
+    {
+      "id": 2,
+      "name": "Zip Hoodie",
+      "description": "Comfortable and warm zip hoodie perfect for all seasons.",
+      "price": 39.99,
+      "image_url": "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/1-ZIP_HOODIE_1200x2000.png?v=1734278176"
     }
   ]
 }
