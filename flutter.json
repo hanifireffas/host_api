@@ -15,32 +15,39 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/1-ZIP_HOODIE_1200x2000.png?v=1734278176"
     },
     {
-      "id": 2,
-      "name": "Zip Hoodie",
-      "description": "Comfortable and warm zip hoodie perfect for all seasons.",
-      "price": 39.99,
-      "image_url": "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/1-ZIP_HOODIE_1200x2000.png?v=1734278176"
+      "id": 4,
+      "name": "Beige Cap",
+      "description": "Elegant beige cap made from durable and lightweight materials.",
+      "price": 21.99,
+      "image_url": "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/CAP_Beige_01_1200x2000.png?v=1713215688"
     },
     {
-      "id": 2,
-      "name": "Zip Hoodie",
-      "description": "Comfortable and warm zip hoodie perfect for all seasons.",
-      "price": 39.99,
-      "image_url": "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/1-ZIP_HOODIE_1200x2000.png?v=1734278176"
+      "id": 5,
+      "name": "Blue Crewneck",
+      "description": "Soft blue crewneck sweater for a casual and stylish look.",
+      "price": 34.99,
+      "image_url": "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/Crewneck-blue-1_1200x2000.png?v=1717763462"
     },
     {
-      "id": 2,
-      "name": "Zip Hoodie",
-      "description": "Comfortable and warm zip hoodie perfect for all seasons.",
-      "price": 39.99,
-      "image_url": "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/1-ZIP_HOODIE_1200x2000.png?v=1734278176"
+      "id": 6,
+      "name": "Grey Crewneck",
+      "description": "Comfortable grey crewneck sweater perfect for everyday wear.",
+      "price": 34.99,
+      "image_url": "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/Crewneck-Grey-1_1200x2000.png?v=1717763548"
     },
     {
-      "id": 2,
-      "name": "Zip Hoodie",
-      "description": "Comfortable and warm zip hoodie perfect for all seasons.",
-      "price": 39.99,
-      "image_url": "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/1-ZIP_HOODIE_1200x2000.png?v=1734278176"
+      "id": 7,
+      "name": "Socks Bundle",
+      "description": "Pack of premium quality socks, comfortable and durable for everyday use.",
+      "price": 14.99,
+      "image_url": "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/Sock_bundle_1200x2000.png?v=1717502490"
+    },
+    {
+      "id": 8,
+      "name": "Black Long Sleeve",
+      "description": "Stylish black long sleeve shirt, perfect for layering or wearing alone.",
+      "price": 29.99,
+      "image_url": "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/1-LONGSLEEVE_1200x2000.png?v=1734277514"
     }
   ]
 }
