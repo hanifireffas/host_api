@@ -1,53 +1,563 @@
-{
-  "products": [
-    {
-      "id": 1,
-      "name": "Black Cap",
-      "description": "Stylish black cap made from high-quality fabric.",
-      "price": 19.99,
-      "image_url": "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/1-Black-Cap_1200x2000.png?v=1707995834"
+[
+  {
+    "id": "prod_001",
+    "name": "Black Pullover",
+    "description": "Experience unmatched comfort and style with our Black Pullover, crafted from premium-grade cotton for a soft, breathable feel. This classic yet modern design features a tailored fit, ribbed cuffs, and a durable finish that makes it perfect for everyday wear or layering during colder months. Whether you're heading out for a casual day or need something cozy for evenings, this pullover combines functionality with timeless fashion.",
+    "price": 59.99,
+    "discount": 10.0,
+    "finalPrice": 53.99,
+    "category": "Men's Clothing",
+    "stock": 25,
+    "image": "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/BLCK_PLVR_1_1200x2000.png?v=1700842292",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/BLCK_PLVR_1_1200x2000.png?v=1700842292",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/BLCK_PLVR_2_1200x2000.png?v=1700848996",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/BLCK_PLVR_4_1200x2000.png?v=1700848996",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/BLCK_PLVR_3_1200x2000.png?v=1700848989"
+    ],
+    "sizes": {
+      "S": 5,
+      "M": 8,
+      "L": 7,
+      "XL": 3,
+      "XXL": 2
     },
-    {
-      "id": 2,
-      "name": "Zip Hoodie",
-      "description": "Comfortable and warm zip hoodie perfect for all seasons.",
-      "price": 39.99,
-      "image_url": "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/1-ZIP_HOODIE_1200x2000.png?v=1734278176"
+    "rating": 0.0
+  },
+  {
+    "id": "prod_002",
+    "name": "White T-Shirt",
+    "description": "Our White T-Shirt offers simplicity and comfort for all-day wear. Made from 100% premium cotton, this shirt features a soft, breathable fabric with a clean, classic look. Whether you're dressing up or dressing down, this versatile piece can be styled to fit any occasion. Ideal for layering or wearing on its own, it promises both comfort and style.",
+    "price": 29.99,
+    "discount": 5.0,
+    "finalPrice": 28.49,
+    "category": "Men's Clothing",
+    "stock": 40,
+    "image": "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/WHT_TSH_1_1200x2000.png?v=1700842359",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/WHT_TSH_1_1200x2000.png?v=1700842359",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/WHT_TSH_2_1200x2000.png?v=1700842359",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/WHT_TSH_3_1200x2000.png?v=1700842360",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/WHT_TSH_4_1200x2000.png?v=1700842360"
+    ],
+    "sizes": {
+      "S": 10,
+      "M": 12,
+      "L": 8,
+      "XL": 5,
+      "XXL": 5
     },
-    {
-      "id": 4,
-      "name": "Beige Cap",
-      "description": "Elegant beige cap made from durable and lightweight materials.",
-      "price": 21.99,
-      "image_url": "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/CAP_Beige_01_1200x2000.png?v=1713215688"
+    "rating": 0.0
+  },
+  {
+    "id": "prod_003",
+    "name": "Black T-Shirt",
+    "description": "The Black T-Shirt is a wardrobe essential that combines style with comfort. Made from high-quality cotton, it offers a soft feel against the skin and is perfect for casual wear or as a layering piece. The classic black color makes it versatile, easily matching with any outfit. Whether you're going for a laid-back look or a more polished casual style, this T-shirt is a must-have.",
+    "price": 34.99,
+    "discount": 7.0,
+    "finalPrice": 32.54,
+    "category": "Men's Clothing",
+    "stock": 30,
+    "image": "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/BLCK_TSH_1_1200x2000.png?v=1700842279",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/BLCK_TSH_1_1200x2000.png?v=1700842279",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/BLCK_TSH_2_1200x2000.png?v=1700842279",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/BLCK_TSH_3_1200x2000.png?v=1700842278",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/BLCK_TSH_4_1200x2000.png?v=1700842278"
+    ],
+    "sizes": {
+      "S": 6,
+      "M": 9,
+      "L": 8,
+      "XL": 5,
+      "XXL": 2
     },
-    {
-      "id": 5,
-      "name": "Blue Crewneck",
-      "description": "Soft blue crewneck sweater for a casual and stylish look.",
-      "price": 34.99,
-      "image_url": "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/Crewneck-blue-1_1200x2000.png?v=1717763462"
+    "rating": 0.0
+  },
+  {
+    "id": "prod_004",
+    "name": "Crewneck Black",
+    "description": "Our Crewneck Black is the perfect combination of comfort and style. Made from soft, high-quality fabric, this crewneck sweatshirt features a classic design with a relaxed fit, making it ideal for layering or wearing alone. Its minimalist black color pairs easily with any outfit, while the ribbed cuffs and waistband add a touch of durability and style. Perfect for casual outings or a cozy day at home.",
+    "price": 49.99,
+    "discount": 8.0,
+    "finalPrice": 45.99,
+    "category": "Men's Clothing",
+    "stock": 35,
+    "image": "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/CREWNECK_BLACK_1_1200x2000.png?v=1713215127",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/CREWNECK_BLACK_1_1200x2000.png?v=1713215127",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/CREWNECK_BLACK_2_1200x2000.png?v=1713215135",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/CREWNECK_BLACK_3_1200x2000.png?v=1713215135",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/CREWNECK_BLACK_4_1200x2000.png?v=1713215135"
+    ],
+    "sizes": {
+      "S": 8,
+      "M": 12,
+      "L": 10,
+      "XL": 4,
+      "XXL": 1
     },
-    {
-      "id": 6,
-      "name": "Grey Crewneck",
-      "description": "Comfortable grey crewneck sweater perfect for everyday wear.",
-      "price": 34.99,
-      "image_url": "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/Crewneck-Grey-1_1200x2000.png?v=1717763548"
+    "rating": 0.0
+  },
+  {
+    "id": "prod_005",
+    "name": "Crewneck Turtledove",
+    "description": "The Crewneck Turtledove offers a unique, stylish twist to the classic crewneck design. Made from premium fabric, this soft and cozy sweatshirt in a versatile turtledove color is perfect for a casual yet fashionable look. It features ribbed cuffs and waistband for a snug fit, while the relaxed silhouette provides all-day comfort. Pair it with jeans or joggers for a comfortable, chic outfit.",
+    "price": 54.99,
+    "discount": 6.0,
+    "finalPrice": 51.69,
+    "category": "Men's Clothing",
+    "stock": 28,
+    "image": "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/CREWNECK-TURTLEDOVE-1_7f1ced45-8729-488f-b4f9-53badebffed3_1200x2000.png?v=1724319347",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/CREWNECK-TURTLEDOVE-1_7f1ced45-8729-488f-b4f9-53badebffed3_1200x2000.png?v=1724319347",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/CREWNECK_TURTLEDOVE_02_7676fa65-49ec-488b-92b1-5c0ae7ba5d88_1200x2000.png?v=1724319346",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/CREWNECK_TURTLEDOVE_3_2e2442eb-0372-48d8-8c2b-b3d3f4c7ab2c_1200x2000.png?v=1724319347",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/CREWNECK_TURTLEDOVE_4_97d2de83-322f-496e-9bb7-20bbd9465342_1200x2000.png?v=1724319346"
+    ],
+    "sizes": {
+      "S": 7,
+      "M": 10,
+      "L": 6,
+      "XL": 3,
+      "XXL": 2
     },
-    {
-      "id": 7,
-      "name": "Socks Bundle",
-      "description": "Pack of premium quality socks, comfortable and durable for everyday use.",
-      "price": 14.99,
-      "image_url": "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/Sock_bundle_1200x2000.png?v=1717502490"
+    "rating": 0.0
+  },
+  {
+    "id": "prod_006",
+    "name": "Hoodie Dark Grey",
+    "description": "Our Dark Grey Hoodie offers a blend of comfort, style, and durability. Made from a soft cotton blend, this hoodie is perfect for chilly days. The cozy interior and adjustable hood provide warmth, while the sleek dark grey color pairs well with any casual outfit. Featuring a front pocket for convenience, this hoodie is perfect for layering or wearing on its own for a laid-back, sporty look.",
+    "price": 59.99,
+    "discount": 10.0,
+    "finalPrice": 53.99,
+    "category": "Men's Clothing",
+    "stock": 25,
+    "image": "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/Hoodie_Darkgrey-1_1200x2000.png?v=1717766735",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/Hoodie_Darkgrey-1_1200x2000.png?v=1717766735",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/Hoodie_Darkgrey-2_1200x2000.png?v=1717766735",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/Hoodie_Darkgrey-3_1200x2000.png?v=1717766735",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/Hoodie_Darkgrey-4_1200x2000.png?v=1717766735"
+    ],
+    "sizes": {
+      "S": 8,
+      "M": 10,
+      "L": 5,
+      "XL": 2,
+      "XXL": 0
     },
-    {
-      "id": 8,
-      "name": "Black Long Sleeve",
-      "description": "Stylish black long sleeve shirt, perfect for layering or wearing alone.",
-      "price": 29.99,
-      "image_url": "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/1-LONGSLEEVE_1200x2000.png?v=1734277514"
-    }
-  ]
-}
+    "rating": 0.0
+  },
+  {
+    "id": "prod_007",
+    "name": "Black Hoodie",
+    "description": "The Black Hoodie is designed for ultimate comfort and versatility. Made from soft, high-quality cotton, it provides a relaxed fit while keeping you warm on cooler days. The sleek black color ensures it pairs effortlessly with any outfit, while the adjustable drawstring hood and front pocket add functional detail. Whether you're lounging at home or heading out, this hoodie is a wardrobe essential.",
+    "price": 64.99,
+    "discount": 12.0,
+    "finalPrice": 57.19,
+    "category": "Men's Clothing",
+    "stock": 30,
+    "image": "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/1-BLACK_HOODIE_1200x2000.png?v=1734277283",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/1-BLACK_HOODIE_1200x2000.png?v=1734277283",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/2-BLACK_HOODIE_1200x2000.png?v=1734277283",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/Black_Hoodie_3_1200x2000.png?v=1734277283",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/Black_Hoodie_4_1200x2000.png?v=1734277283",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/HOODIE_BODY_1200x2000.jpg?v=1734277272"
+    ],
+    "sizes": {
+      "S": 10,
+      "M": 12,
+      "L": 7,
+      "XL": 6,
+      "XXL": 2
+    },
+    "rating": 0.0
+  },
+  {
+    "id": "prod_008",
+    "name": "Crewneck Grey",
+    "description": "The Crewneck Grey is a stylish and comfortable wardrobe staple. Crafted from soft cotton, this sweatshirt offers a relaxed fit, making it ideal for both lounging and casual outings. The grey color adds a touch of versatility, allowing it to easily complement any outfit. With ribbed cuffs and waistband for a snug fit, this crewneck is perfect for layering or wearing on its own.",
+    "price": 49.99,
+    "discount": 8.0,
+    "finalPrice": 45.99,
+    "category": "Men's Clothing",
+    "stock": 20,
+    "image": "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/Crewneck-Grey-1_1200x2000.png?v=1717763548",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/Crewneck-Grey-1_1200x2000.png?v=1717763548",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/Crewneck-grey-2_1200x2000.png?v=1717763548",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/Crewneck-grey-3_1200x2000.png?v=1717763548",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/Crewneck-grey-4_1200x2000.png?v=1717763548"
+    ],
+    "sizes": {
+      "S": 6,
+      "M": 8,
+      "L": 5,
+      "XL": 1,
+      "XXL": 0
+    },
+    "rating": 0.0
+  },
+  {
+    "id": "prod_009",
+    "name": "Crewneck Blue",
+    "description": "The Crewneck Blue is a stylish and comfortable sweatshirt perfect for any casual outfit. Made from soft cotton, it ensures warmth while offering a relaxed, classic fit. The blue color adds a fresh, vibrant touch, making it easy to pair with jeans, joggers, or shorts. Featuring ribbed cuffs and a crew neckline, this crewneck is versatile and essential for your wardrobe.",
+    "price": 49.99,
+    "discount": 8.0,
+    "finalPrice": 45.99,
+    "category": "Men's Clothing",
+    "stock": 20,
+    "image": "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/Crewneck-blue-1_1200x2000.png?v=1717763462",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/Crewneck-blue-1_1200x2000.png?v=1717763462",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/Crewneck-blue-2_1200x2000.png?v=1717763464",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/Crewneck-blue-3_1200x2000.png?v=1717763464",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/Crewneck-blue-4_1200x2000.png?v=1717763464"
+    ],
+    "sizes": {
+      "S": 6,
+      "M": 8,
+      "L": 5,
+      "XL": 1,
+      "XXL": 0
+    },
+    "rating": 0.0
+  },
+  {
+    "id": "prod_010",
+    "name": "Zip Hoodie",
+    "description": "The Zip Hoodie is designed for comfort and ease. This hoodie features a full zip closure, making it easy to adjust to your comfort level. The brown color gives it a sleek, understated look, while the soft cotton fabric keeps you warm. Perfect for layering during colder days or wearing on its own, it also includes a spacious front pocket for convenience.",
+    "price": 69.99,
+    "discount": 12.0,
+    "finalPrice": 61.59,
+    "category": "Men's Clothing",
+    "stock": 15,
+    "image": "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/1-ZIP_HOODIE_1200x2000.png?v=1734278176",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/1-ZIP_HOODIE_1200x2000.png?v=1734278176",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/2-ZIP_HOODIE_1200x2000.jpg?v=1734278176",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/ZIP_Hoodie_3_1200x2000.png?v=1734278176",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/Brown_Hoodie_4_1200x2000.png?v=1734278176",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/ZIP_BODY_1200x2000.jpg?v=1734278168"
+    ],
+    "sizes": {
+      "S": 8,
+      "M": 10,
+      "L": 5,
+      "XL": 4,
+      "XXL": 2
+    },
+    "rating": 0.0
+  },
+  {
+    "id": "prod_011",
+    "name": "Hellblau Shirt",
+    "description": "The Hellblau Shirt offers a vibrant and comfortable fit. Made from soft, breathable fabric, it ensures all-day comfort. Its light blue color makes it versatile for pairing with any casual outfit, and the classic cut adds to its timeless appeal. Perfect for both warm weather and layering, this shirt is a must-have addition to your wardrobe.",
+    "price": 39.99,
+    "discount": 5.0,
+    "finalPrice": 37.99,
+    "category": "Men's Clothing",
+    "stock": 25,
+    "image": "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/Hellblau_Shirt_1_1200x2000.png?v=1717766808",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/Hellblau_Shirt_1_1200x2000.png?v=1717766808",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/Hellblau_Shirt_2_1200x2000.png?v=1717766818",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/Hellblau_Shirt_3_1200x2000.png?v=1717766818",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/Hellblau_Shirt_4_1200x2000.png?v=1717766818"
+    ],
+    "sizes": {
+      "S": 7,
+      "M": 9,
+      "L": 6,
+      "XL": 3,
+      "XXL": 0
+    },
+    "rating": 0.0
+  },
+  {
+    "id": "prod_012",
+    "name": "Blue Hoodie",
+    "description": "Stay cozy and stylish with our premium Blue Hoodie, made from soft, durable fabric for all-day comfort. Features a relaxed fit, adjustable drawstring hood, and spacious front pocket. Perfect for casual outings or lounging in cool weather.",
+    "price": 65.99,
+    "discount": 15.0,
+    "finalPrice": 56.09,
+    "category": "Men's Clothing",
+    "stock": 30,
+    "image": "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/Hoodie_Blue-back-1_1200x2000.png?v=1718097503",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/Hoodie_Blue-back-1_1200x2000.png?v=1718097503",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/Hoodie_Blue-back-2_1200x2000.png?v=1718097503",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/Hoodie_Blue-back-3_1200x2000.png?v=1718097503",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/Hoodie_Blue-back-4._1200x2000.png?v=1718097503"
+    ],
+    "sizes": {
+      "S": 6,
+      "M": 10,
+      "L": 8,
+      "XL": 4,
+      "XXL": 2
+    },
+    "rating": 0.0
+  },
+  {
+    "id": "prod_013",
+    "name": "Turtledove Hoodie",
+    "description": "A minimalist essential, our Turtledove Hoodie offers a neutral-toned design with a premium fleece interior for warmth. Features a classic hood, ribbed cuffs, and a roomy fit for effortless layering.",
+    "price": 62.99,
+    "discount": 12.0,
+    "finalPrice": 55.43,
+    "category": "Men's Clothing",
+    "stock": 20,
+    "image": "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/Turtledove-front_hoodie_1200x2000.png?v=1713214905",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/Turtledove-front_hoodie_1200x2000.png?v=1713214905",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/Turtledove-Hoodie-Back_1200x2000.png?v=1713214905",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/HOODIE_TURTLEDOVE_3_1200x2000.png?v=1713214905",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/HOODIE_TURTLEDOVE_4_1200x2000.png?v=1713214905"
+    ],
+    "sizes": {
+      "S": 4,
+      "M": 7,
+      "L": 5,
+      "XL": 3,
+      "XXL": 1
+    },
+    "rating": 0.0
+  },
+  {
+    "id": "prod_014",
+    "name": "Black Long Sleeve Shirt",
+    "description": "A sleek, versatile long sleeve shirt in solid black. Made from breathable cotton blend with a tailored fit, ideal for layering or standalone wear. Perfect for both casual and semi-formal occasions.",
+    "price": 45.99,
+    "discount": 5.0,
+    "finalPrice": 43.69,
+    "category": "Men's Clothing",
+    "stock": 35,
+    "image": "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/1-LONGSLEEVE_1200x2000.png?v=1734277514",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/1-LONGSLEEVE_1200x2000.png?v=1734277514",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/2-LONGSLEEVE_1200x2000.png?v=1734277514",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/Black_longsleeve_3_1200x2000.png?v=1734277514",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/Black_longsleeve_4_1200x2000.png?v=1734277514",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/LONG_SL_BODY_1200x2000.jpg?v=1734277507"
+    ],
+    "sizes": {
+      "S": 8,
+      "M": 12,
+      "L": 10,
+      "XL": 4,
+      "XXL": 1
+    },
+    "rating": 0.0
+  },
+  {
+    "id": "prod_015",
+    "name": "White T-Shirt",
+    "description": "A classic white T-shirt made from 100% premium cotton for ultimate comfort and breathability. Features a regular fit, crew neckline, and durable stitching for everyday wear. Perfect for layering or as a standalone piece.",
+    "price": 29.99,
+    "discount": 0.0,
+    "finalPrice": 29.99,
+    "category": "Men's Clothing",
+    "stock": 40,
+    "image": "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/1-WHITE_SHIRT_1200x2000.png?v=1734277812",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/1-WHITE_SHIRT_1200x2000.png?v=1734277812",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/2-WHITE_SHIRT_1200x2000.png?v=1734277812",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/white_Tshirt_3_1200x2000.png?v=1734277812",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/white_Tshirt_4_1200x2000.png?v=1734277812",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/WHITE_SHIRT_BODY_1200x2000.jpg?v=1734277806"
+    ],
+    "sizes": {
+      "S": 10,
+      "M": 15,
+      "L": 10,
+      "XL": 5
+    },
+    "rating": 0.0
+  },
+  {
+    "id": "prod_016",
+    "name": "Black T-Shirt",
+    "description": "A versatile black T-shirt crafted from soft, high-quality cotton for all-day comfort. Features a modern fit, crew neck, and reinforced seams for durability. Ideal for casual outings or as an undershirt.",
+    "price": 29.99,
+    "discount": 5.0,
+    "finalPrice": 28.49,
+    "category": "Men's Clothing",
+    "stock": 45,
+    "image": "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/1-BLACK_SHIRT_1200x2000.png?v=1734277613",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/1-BLACK_SHIRT_1200x2000.png?v=1734277613",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/2-BLACK_SHIRT_1200x2000.png?v=1734277613",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/Black_Tshirt_4_1200x2000.png?v=1734277613",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/Black_Tshirt_3_1200x2000.png?v=1734277613",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/BLACK_SHIRT_BODY_1200x2000.jpg?v=1734277633"
+    ],
+    "sizes": {
+      "S": 12,
+      "M": 18,
+      "L": 10,
+      "XL": 5
+    },
+    "rating": 0.0
+  },
+  {
+    "id": "prod_017",
+    "name": "Grey T-Shirt",
+    "description": "A stylish grey T-shirt made from premium cotton blend for softness and durability. Features a relaxed fit, classic crew neck, and seamless shoulders for enhanced comfort. Perfect for everyday casual wear.",
+    "price": 29.99,
+    "discount": 0.0,
+    "finalPrice": 29.99,
+    "category": "Men's Clothing",
+    "stock": 35,
+    "image": "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/1-GREY_SHIRT_1200x2000.png?v=1734277752",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/1-GREY_SHIRT_1200x2000.png?v=1734277752",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/2-GREY_SHIRT_1200x2000.png?v=1734277752",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/Grey_Tshirt_3_1200x2000.png?v=1734277752",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/Grey_Tshirt_4_1200x2000.png?v=1734277752",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/GREY_SHIRT_BODY_1200x2000.jpg?v=1734277749"
+    ],
+    "sizes": {
+      "S": 8,
+      "M": 12,
+      "L": 10,
+      "XL": 5
+    },
+    "rating": 0.0
+  },
+  {
+    "id": "prod_018",
+    "name": "Rose Hoodie",
+    "description": "A stylish rose-colored hoodie made from premium cotton blend for ultimate comfort. Features a relaxed fit, adjustable drawstring hood, and spacious front pocket. Perfect for casual outings or lounging in style.",
+    "price": 64.99,
+    "discount": 10.0,
+    "finalPrice": 58.49,
+    "category": "Men's Clothing",
+    "stock": 22,
+    "image": "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/1-ROSE_HOODIE_1200x2000.png?v=1734277399",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/1-ROSE_HOODIE_1200x2000.png?v=1734277399",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/2-ROSE_HOODIE_1200x2000.png?v=1734277399",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/Rose_Hoodie_3_1200x2000.png?v=1734277399",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/Rose_Hoodie_4_1200x2000.png?v=1734277399",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/ROSE_HOODIE_BODY_1200x2000.jpg?v=1734277389"
+    ],
+    "sizes": {
+      "S": 5,
+      "M": 8,
+      "L": 6,
+      "XL": 3
+    },
+    "rating": 0.0
+  },
+  {
+    "id": "prod_019",
+    "name": "Red T-Shirt",
+    "description": "A vibrant red T-shirt crafted from soft, breathable cotton. Features a classic crew neckline and regular fit for everyday comfort. Perfect for adding a pop of color to your casual wardrobe.",
+    "price": 27.99,
+    "discount": 0.0,
+    "finalPrice": 27.99,
+    "category": "Men's Clothing",
+    "stock": 38,
+    "image": "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/Red_T-Shirt-1_1200x2000.png?v=1717771648",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/Red_T-Shirt-1_1200x2000.png?v=1717771648",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/Red_T-Shirt-2_1200x2000.png?v=1717771648",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/Red_shirt-3_1200x2000.png?v=1717771648",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/Red-Shirt-4_1200x2000.png?v=1717771648"
+    ],
+    "sizes": {
+      "S": 9,
+      "M": 14,
+      "L": 10,
+      "XL": 5
+    },
+    "rating": 0.0
+  },
+  {
+    "id": "prod_020",
+    "name": "Multi Cap",
+    "description": "A stylish multi-colored cap featuring a structured design and adjustable strap for perfect fit. Made from durable materials to provide sun protection while keeping you fashionable.",
+    "price": 24.99,
+    "discount": 5.0,
+    "finalPrice": 23.74,
+    "category": "Accessories",
+    "stock": 15,
+    "image": "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/CAP_Multi_01_1200x2000.png?v=1713215596",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/CAP_Multi_01_1200x2000.png?v=1713215596",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/CAP_Multi_02_1200x2000.png?v=1713215596",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/CAP_Multi_03_1200x2000.png?v=1713215596",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/CAP_Multi_04_1200x2000.png?v=1713215596"
+    ],
+    "sizes": {
+      "One Size": 15
+    },
+    "rating": 0.0
+  },
+  {
+    "id": "prod_021",
+    "name": "Beige Cap",
+    "description": "A classic beige cap with a structured design and adjustable strap for perfect fit. Made from durable materials to provide sun protection while maintaining a clean, minimalist style.",
+    "price": 24.99,
+    "discount": 0.0,
+    "finalPrice": 24.99,
+    "category": "Accessories",
+    "stock": 18,
+    "image": "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/CAP_Beige_01_1200x2000.png?v=1713215688",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/CAP_Beige_01_1200x2000.png?v=1713215688",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/CAP_Beige_02_1200x2000.png?v=1713215688",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/CAP_Beige_03_1200x2000.png?v=1713215688",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/CAP_Beige_04_1200x2000.png?v=1713215688"
+    ],
+    "sizes": {
+      "One Size": 18
+    },
+    "rating": 0.0
+  },
+  {
+    "id": "prod_022",
+    "name": "Black Cap",
+    "description": "A sleek black cap featuring a structured design with premium stitching. The adjustable strap ensures a comfortable fit for all head sizes. Perfect for both style and sun protection.",
+    "price": 26.99,
+    "discount": 5.0,
+    "finalPrice": 25.64,
+    "category": "Accessories",
+    "stock": 20,
+    "image": "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/1-Black-Cap_1200x2000.png?v=1707995834",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/1-Black-Cap_1200x2000.png?v=1707995834",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/2-Black-Cap_1200x2000.png?v=1707995834",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/3-Black-Cap_1200x2000.png?v=1707995834",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/4-Black-Cap_1200x2000.png?v=1707995834"
+    ],
+    "sizes": {
+      "One Size": 20
+    },
+    "rating": 0.0
+  },
+  {
+    "id": "prod_023",
+    "name": "Beige Classic Cap",
+    "description": "A timeless beige cap with a slightly curved brim and structured crown. Features breathable fabric and an adjustable strap for all-day comfort and sun protection.",
+    "price": 25.99,
+    "discount": 0.0,
+    "finalPrice": 25.99,
+    "category": "Accessories",
+    "stock": 15,
+    "image": "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/1_Beige_Cap_1200x2000.png?v=1708004936",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/1_Beige_Cap_1200x2000.png?v=1708004936",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/2_Beige_Cap_1200x2000.png?v=1708004936",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/3-Beige_Cap_1200x2000.png?v=1708004936",
+      "https://cdn.shopify.com/s/files/1/0081/9111/5315/files/4_Beige_Cap_1200x2000.png?v=1708004936"
+    ],
+    "sizes": {
+      "One Size": 15
+    },
+    "rating": 0.0
+  }
+]
